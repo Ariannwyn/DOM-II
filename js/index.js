@@ -70,3 +70,5 @@ p.addEventListener('contextmenu', (event) => {
   p.style.backgroundColor = "tan";
 });
 
+//GSAP
+gsap.to(busImg, {duration: 2, rotation: 180});
