@@ -1,8 +1,4 @@
 // Your code goes here
-// let contentSection = document.querySelector('.content-section');
-// contentSection.addEventListener('cick', (event) => {
-//   alert('You Clicked the Sample Button!')
-// })
 
 //1
 window.addEventListener('load', (event) => {
